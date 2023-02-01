@@ -38,15 +38,20 @@ BROWSER=firefox jupyter notebook
  - If asked, chose the F# kernel in Jupyter
  - Use the "Run" button to execute the cells in the notebook
 
-The REIN files for model in Fig 8 is:
+The REIN files for generating model in Fig 8 is:
 
-
+https://github.com/kuglerh/Esrrb/blob/main/Esrrb.rein
 
 Additional examples from case studies published in other papers are made available in the following notebooks:
    - REIN.ipynb: Examples of using the RE:IN language to study stem cell decision making
    - YordanovDunnNSB2016.ipynb: Additional examples of using the RE:IN language to analyze various biological systems
    - RESIN.ipynb: Illustrates an extension of the RE:IN methodology that supports reasoning about switching interaction networks
    - Motifs.ipynb: Illustrates an extension of the RE:IN methodology that enables reasoning about function (dynamical behaviour) and structure (network motifs) of biological interaction networks
+
+
+For help and support in running the Reasoning Engine and The Esrrb Modelling please contact :
+
+Hillel Kugler - hillelk@biu.ac.il
 
 
 
