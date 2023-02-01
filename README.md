@@ -38,7 +38,7 @@ BROWSER=firefox jupyter notebook
  - If asked, chose the F# kernel in Jupyter
  - Use the "Run" button to execute the cells in the notebook
 
-The REIN files for generating model in Fig 8 is:
+The REIN files for generating the results in Fig 8 is:
 
 https://github.com/kuglerh/Esrrb/blob/main/Esrrb.rein
 
@@ -52,6 +52,8 @@ Additional examples from case studies published in other papers are made availab
 For help and support in running the Reasoning Engine and The Esrrb Modelling please contact :
 
 Hillel Kugler - hillelk@biu.ac.il
+
+https://www.eng.biu.ac.il/hillelk/
 
 
 
